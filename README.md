@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-💬 **Languages:** C / C++ / Java  
+💬 **Languages:** C / C++ / Java /Go
 ⚙️ **Platforms:** Linux (Ubuntu) / Git / GitHub  
 🧰 **Other:** VS Code, IntelliJ IDEA, and a lot of caffeine ☕
 
