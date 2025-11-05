@@ -1,6 +1,6 @@
 ---
 
-### 👋 Hi there, I'm **Qiwen Zhu (祝起文)**
+### 👋 Hi there, I'm **Mr.zhu**
 
 🎓 I'm currently a **Sophomore** majoring in **Computer Science and Technology** at **Minzu University of China (中央民族大学)**.  
 💻 Passionate about **system-level programming**, **Java development**, and **problem-solving**.
@@ -17,13 +17,13 @@
 
 ### 🛠️ Tech Stack & Tools
 
-💬 **Languages:** C / C++ / Java / Python  
+💬 **Languages:** C / C++ / Java  
 ⚙️ **Platforms:** Linux (Ubuntu) / Git / GitHub  
 🧰 **Other:** VS Code, IntelliJ IDEA, and a lot of caffeine ☕
 
 ---
 
-### 🌱 Goals for 2025
+### 🌱 Goals for 2025~2026
 
 - ✅ Master the fundamentals of **Operating Systems** and **Java OOP**  
 - 🔧 Build 2–3 **open-source projects** to share on GitHub  
