@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm **Mr.zhu**
 
 🎓 I'm currently a **Sophomore** majoring in **Computer Science and Technology** at **Minzu University of China (中央民族大学)**.  
-💻 Passionate about **system-level programming**, **Agent development**, and **making computers do my homework**.
+💻 Passionate about **system-level programming**, **Agent development**, and **making computers do my homework**(haha it's a joke).
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-💬 **Languages:** C / C++ / Go / Python *(formerly Java, RIP)*  
+💬 **Languages:** C / C++ / Go / Python  
 ⚙️ **Platforms:** Linux (Ubuntu) / Git / GitHub  
 🧰 **Other:** VS Code, JetBrains Suite, and industrial-grade caffeine ☕  
 🤖 **Specialty:** Making LLMs behave (most of the time)
