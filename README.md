@@ -1,43 +1,38 @@
----
-
 ### 👋 Hi there, I'm **Mr.zhu**
 
 🎓 I'm currently a **Sophomore** majoring in **Computer Science and Technology** at **Minzu University of China (中央民族大学)**.  
-💻 Passionate about **system-level programming**, **Java development**, and **problem-solving**.
+💻 Passionate about **system-level programming**, **Agent development**, and **making computers do my homework**.
 
 ---
 
 ### 🚀 What I’m Working On
 
-- 🧠 Learning **Operating Systems** — diving deep into how computers actually work behind the scenes.  
-- ☕ Exploring **Java programming** — from OOP basics to building small projects.  
-- 🧩 Practicing **LeetCode Top 150** — improving algorithms and data structures every day!  
+- 🧠 **OS Internals** — still convinced that operating systems are just elaborate magic tricks. Currently pulling back the curtain.
+- 🐍☁️ **Go & Python** — trading Java's verbosity for Go's simplicity and Python's "it just works" (until it doesn't).
+- 🤖 **DeepResearch Assistant Agent** — building an AI agent smart enough to find answers so I don't have to. Currently negotiating its terms of service.
+- 🧩 **LeetCode Top 150** — *Completed!* ✅ Now casually flexing my algorithm muscles while sipping coffee.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-💬 **Languages:** C / C++ / Java /Go
+💬 **Languages:** C / C++ / Go / Python *(formerly Java, RIP)*  
 ⚙️ **Platforms:** Linux (Ubuntu) / Git / GitHub  
-🧰 **Other:** VS Code, IntelliJ IDEA, and a lot of caffeine ☕
+🧰 **Other:** VS Code, JetBrains Suite, and industrial-grade caffeine ☕  
+🤖 **Specialty:** Making LLMs behave (most of the time)
 
 ---
 
 ### 🌱 Goals for 2025~2026
 
-- ✅ Master the fundamentals of **Operating Systems** and **Java OOP**  
-- 🔧 Build 2–3 **open-source projects** to share on GitHub  
-- 🏆 Solve **300+ LeetCode problems**  
-- 💬 Collaborate and contribute to open-source communities  
+- ✅ **Master OS fundamentals** — understand why my computer freezes at the worst possible moments.
+- ✅ **Ship the DeepResearch Agent** — make it the TA I never had.
+- 🔧 **Build 2–3 open-source projects** — preferably ones people actually use (no guarantees).
+- 🏆 **Push beyond 300 LeetCode problems** — because apparently, I enjoy suffering.
+- 💬 **Contribute to open-source** — give back to the community that taught me everything.
 
 ---
 
-### 📫 Let’s Connect!
-
-💡 I love connecting with other developers!  
-If you’re also learning OS, Java, or solving LeetCode — let’s share ideas and grow together 🚀  
-
-👉 *Feel free to star 🌟, fork 🍴, or message me anytime!*  
-
----
+### 🎯 Fun Fact
+My code works perfectly... until I add comments. Then it's anyone's guess. 😉
 
